@@ -1,0 +1,4 @@
+#Mon Jan 20 15:45:25 CST 2020
+base.0=D\:\\UNISKA\\flutter_mysql\\build\\app\\intermediates\\transforms\\r8\\release\\1
+path.0=classes.dex
+renamed.0=classes.dex

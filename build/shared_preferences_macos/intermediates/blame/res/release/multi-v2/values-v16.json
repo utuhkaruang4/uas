@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\UNISKA\\flutter_mysql\\build\\shared_preferences_macos\\intermediates\\res\\merged\\release\\values-v16\\values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Utuhkaruang\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2428a2154349148c2fbe2a7c8cbc52df\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\UNISKA\\flutter_mysql\\build\\shared_preferences_macos\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v16\\values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Utuhkaruang\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\2428a2154349148c2fbe2a7c8cbc52df\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        }
+    ]
+}
